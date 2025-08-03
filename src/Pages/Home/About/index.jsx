@@ -16,7 +16,7 @@ function About() {
 
                     <ButtonToTalk />
 
-                    <button type="submit" className='bg-[length:100%] hover:bg-[length:800%] bg-gradient-to-r dark:from-slate from-white dark:to-slatedark to-gray font-Stara dark:text-white text-graydark text-[16px] px-[20px] py-[10px] rounded-[100px] shadow-lg hover:shadow-2xl'>Ver Projetos</button>
+                    <a href='#Projects' className='bg-[length:100%] hover:bg-[length:800%] bg-gradient-to-r dark:from-slate from-white dark:to-slatedark to-gray font-Stara dark:text-white text-graydark text-[16px] px-[20px] py-[10px] rounded-[100px] shadow-lg hover:shadow-2xl'>Ver Projetos</a>
 
                 </div>
                 

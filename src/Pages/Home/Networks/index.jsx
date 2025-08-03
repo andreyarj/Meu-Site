@@ -34,17 +34,17 @@ function Networks() {
 
             <div className='flex flex-row flex-wrap items-center justify-center gap-[15px] w-full h-auto'>
 
-                <BoxNetwork Icon={AiOutlineWhatsApp} Title='WhatsApp'/>
+                <BoxNetwork Icon={AiOutlineWhatsApp} Title='WhatsApp' Link='https://wa.me/5511954879771?text=Ol%C3%A1%2C%20Gostaria%20de%20um%20or%C3%A7amento'/>
 
-                <BoxNetwork Icon={AiOutlineInstagram} Title='Instagram'/>
+                <BoxNetwork Icon={AiOutlineInstagram} Title='Instagram' Link='https://instagram.com/yerdna.arj'/>
 
-                <BoxNetwork Icon={LiaFacebook} Title='Facebook'/>
+                <BoxNetwork Icon={LiaFacebook} Title='Facebook' Link='https://www.facebook.com/share/1GMJW3ckjb/?mibextid=qi2Omg'/>
 
-                <BoxNetwork Icon={GrLinkedinOption} Title='LinkedIn'/>
+                <BoxNetwork Icon={GrLinkedinOption} Title='LinkedIn' Link='https://www.linkedin.com/in/andrey-araujo-8724992a7'/>
 
-                <BoxNetwork Icon={MdOutlineMailOutline} Title='Email'/>
+                <BoxNetwork Icon={MdOutlineMailOutline} Title='Email' Link='mailto:yerdna.arj@gmail.com'/>
 
-                <BoxNetwork Icon={ImGithub} Title='Git Hub'/>
+                <BoxNetwork Icon={ImGithub} Title='Git Hub' Link='https://github.com/andreyarj'/>
 
             </div>
 
