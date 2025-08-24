@@ -36,7 +36,7 @@ function Networks() {
 
                 <BoxNetwork Icon={AiOutlineWhatsApp} Title='WhatsApp' Link='https://wa.me/5511954879771?text=Ol%C3%A1%2C%20Gostaria%20de%20um%20or%C3%A7amento'/>
 
-                <BoxNetwork Icon={AiOutlineInstagram} Title='Instagram' Link='https://instagram.com/yerdna.arj'/>
+                <BoxNetwork Icon={AiOutlineInstagram} Title='Instagram' Link='https://instagram.com/yerdna.ui'/>
 
                 <BoxNetwork Icon={LiaFacebook} Title='Facebook' Link='https://www.facebook.com/share/1GMJW3ckjb/?mibextid=qi2Omg'/>
 
