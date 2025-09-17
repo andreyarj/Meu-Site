@@ -26,7 +26,7 @@ function Networks() {
 
                     <h1 className='w-full h-auto font-Stretch bg-gradient-to-r from-skydark to-sky bg-clip-text text-transparent text-[14px]'>Ola Web Amigo!</h1>
                     
-                    <p className='w-full h-auto font-Stara text-[11px] dark:text-white text-graydark'>Contate me para iniciar seu projeto, Juntos encontraremos o seu melhor perfil, Conecte se e Experimente.</p>
+                    <p className='w-full h-auto font-Stara text-[11px] dark:text-white text-graydark'>Contate me para iniciar seu projeto, Juntos encontraremos o seu melhor perfil, Junte se.</p>
 
                 </div>
 
