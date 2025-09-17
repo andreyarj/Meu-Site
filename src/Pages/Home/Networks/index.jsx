@@ -14,7 +14,7 @@ function Networks() {
         <>
         <section id='Network' className='flex flex-col flex-nowrap items-center justify-center gap-[15px] w-full h-auto px-[20px] py-[30px] dark:bg-slate bg-white'>
 
-            <div className='flex flex-row flex-nowrap items-center justify-center gap-[15px] w-full h-auto'>
+            <div className='flex flex-row flex-nowrap items-center justify-center gap-[10px] w-full h-auto'>
 
                 <button className='bg-[length:100%] hover:bg-[length:800%] bg-gradient-to-br dark:from-slate from-white dark:via-slatedark  via-gray dark:to-slatedark to-gray p-[24px] rounded-[15px]'>
 
@@ -22,11 +22,11 @@ function Networks() {
 
                 </button>
 
-                <div className='flex flex-col flex-nowrap items-center justify-center gap-[5px] w-full h-auto'>
+                <div className='flex flex-col flex-nowrap items-center justify-center gap-[2.5px] w-full h-auto'>
 
-                    <h1 className='w-full h-auto font-Stretch bg-gradient-to-r from-skydark to-sky bg-clip-text text-transparent text-[16px]'>Ola Web Amigo!</h1>
+                    <h1 className='w-full h-auto font-Stretch bg-gradient-to-r from-skydark to-sky bg-clip-text text-transparent text-[14px]'>Ola Web Amigo!</h1>
                     
-                    <p className='w-full h-auto font-Stara text-[12px] dark:text-white text-graydark'>Contate me para iniciar seu projeto, Juntos encontraremos o seu melhor perfil, Conecte se e Experimente.</p>
+                    <p className='w-full h-auto font-Stara text-[11px] dark:text-white text-graydark'>Contate me para iniciar seu projeto, Juntos encontraremos o seu melhor perfil, Conecte se e Experimente.</p>
 
                 </div>
 
